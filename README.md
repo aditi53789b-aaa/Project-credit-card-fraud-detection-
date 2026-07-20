@@ -48,3 +48,4 @@ Statistical comparison of real and synthetic data
 Visualizations of feature distributions
 
 Samples of generated fraud transactions
+<img width="740" height="140" alt="image" src="https://github.com/user-attachments/assets/19c51958-217e-492c-b961-989c32022bcb" />
